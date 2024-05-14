@@ -4,7 +4,7 @@ Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0!
 
 ## Perkenalan Terminal, Text Editor dan Mengendalikan Revisi Menggunakan Git
 
-Hari ini kamu akan berkenalan terminal untuk memberikan command line atau perintah ke komputer, lalu mengguanakan Git, sebuah tool untuk mengendalikan revisi dari kode yang telah kamu buat.
+Sesi ini kamu akan berkenalan terminal untuk memberikan command line atau perintah ke komputer, lalu mengguanakan Git, sebuah tool untuk mengendalikan revisi dari kode yang telah kamu buat.
 
 Materi & Referensi :
 
@@ -18,6 +18,9 @@ Materi & Referensi :
 
 ## Mempelajari HTML
 
+Sesi ini kita akan mempelajari hal paling pertama dalam pembuatan sebuah web, yaitu HTML! Mungkin banyak dari antara kamu
+yang pernah mencoba HTML, namun tidak ada salahnya untuk mereview ulang, bukan?
+
 - :notebook_with_decorative_cover: [Mempelajari dasar HTML5](./references/html5-basics.md)
 - :notebook_with_decorative_cover: [Mempelajari dasar HTML5 forms](./references/html5-forms-basics.md)
 - :books: [Mengenal Dunia Web dan Internet](./references/internet-web.md)
@@ -28,11 +31,16 @@ Materi & Referensi :
 
 ## Mempelajari CSS
 
+Kamu telah berhasil membuat website pertamamu dengan memanfaatkan beberapa tag sederhana di HTML. Hari ini, mari kita percantik tampilan websitemu dengan Cascading Style Sheet, atau disingkat menjadi CSS. Akan sangat menyenangkan pada saat kita bisa mulai membuat website kita lebih menarik!
+
 - :notebook_with_decorative_cover: [Mempelajari dasar CSS3](./references/css3-basics.md)
 - :anchor: [W3School - CSS]( https://www.w3schools.com/css/default.asp)
 - :anchor: [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
 
 ## Menguasai HTML dan Mengenal CSS
+
+Menjelang akhir minggu pertama kita, saatnya buat diri kita puas dengan mempercantik website kita dan
+menampilkannya secara online. Kamu juga bisa perdalam lagi hal-hal terkait web design. Puas dengan tampilan websitemu?
 
 - :notebook_with_decorative_cover: [Memahahami perencanaan, process, dan manajemen dalam pembuatan web](./references/web-dev-process.md)
 - :notebook_with_decorative_cover: [Mengenal adaptive web design dan responsive web design (RWB)](./references/web-design.md)

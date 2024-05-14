@@ -21,8 +21,8 @@ Panduan:
 
 ## [Week 1: Membuat Website Pertama Saya](./week-1/index.md)
 
-<!-- ## [Week 2: Mengenal JavaScript](./week-2/index.md)
+## [Week 2: Mengenal JavaScript](./week-2/index.md)
 
-## [Week 3: Mendalami JavaScript](./week-3/index.md)
+<!-- ## [Week 3: Mendalami JavaScript](./week-3/index.md)
 
 ## [Week 4: Membuat Project Pertama Saya](./week-4/index.md) -->
